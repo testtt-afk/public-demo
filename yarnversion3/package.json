@@ -6,6 +6,6 @@
     "lodash": "4.17.19",
     "marked": "1.2.2",
     "minimist": "1.2.5",
-    "wrangler": "3.18.0"
+    "wrangler": "3.19.0"
   }
 }
