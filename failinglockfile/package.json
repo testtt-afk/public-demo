@@ -13,7 +13,7 @@
   "dependencies": {
     "axios": "^999.999.999",
     "immer": "^9.0.5",
-    "lodash": "4.17.19",
-    "wrangler": "3.18.0"
+    "lodash": "4.17.21",
+    "wrangler": "4.11.0"
   }
 }
